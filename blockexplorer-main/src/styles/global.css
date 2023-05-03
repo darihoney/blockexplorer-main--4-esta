@@ -1,0 +1,25 @@
+body {
+
+    background-color: chartreuse;
+    color: deeppink;
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+    }
+
+    .border {
+        border: 3px solid blue;
+        width: 800px;
+        padding: 20px;
+
+    }
+
+    .form {
+        margin: 10px auto 30px;
+    }
+
+     .form input {
+        border: 1px solid blue;
+        width: 50 px;
+        height: 20px;
+        background-color: aqua;
+    }
